@@ -1,0 +1,15 @@
+name: projectjavaplugin
+version: '0.1-1.20.1'
+main: net.khanwarden.projectjavaplugin.Projectjavaplugin
+api-version: '1.20'
+author: Taldybaev "KhanWarden" Batyrkhan
+description: Plugin with SQL for a Java Project
+
+commands:
+  register:
+    description: registering new player
+    usage: /register
+
+  login:
+    description: login player
+    usage: /login
